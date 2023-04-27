@@ -35,7 +35,7 @@ FAQ Plus separates the end-user and the sme bot. With splitting the bot and havi
 
 *	A user interacting with FAQ Plus through chat:
 
-![FAQ Plus in action (user view)](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/images/FAQPlusEndUser.gif)
+![FAQ Plus in action (user view)](https://github.com/OfficeDev/microsoft-teams-faqplusplus-app/wiki/images/FAQPlusEndUser.gif)
 
 
 *	Expert using FAQ Plus:
