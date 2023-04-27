@@ -35,17 +35,17 @@ FAQ Plus separates the end-user and the sme bot. With splitting the bot and havi
 
 *	A user interacting with FAQ Plus through chat:
 
-![FAQ Plus in action (user view)](https://github.com/Shrujal-Tailor/FAQ-Plus/Wiki/images/FAQPlusEndUser.gif)
+![FAQ Plus in action (user view)](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/FAQPlusEndUser.gif)
 
 
 *	Expert using FAQ Plus:
 
-![FAQ Plus in action (experts view)](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/images/FAQPlusExperts.gif)
+![FAQ Plus in action (experts view)](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/FAQPlusExperts.gif)
 
 
 *	Expert invoking the task module to add QnA pair:
 
-![Invoking_taskmodule1](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Images/Invoking_taskmodule1.png)
+![Invoking_taskmodule1](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/Invoking_taskmodule1.png)
 
 More screenshots and tips on how to use the app are in the [Wiki](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Home) of this repository.
 
