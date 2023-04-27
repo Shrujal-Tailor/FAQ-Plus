@@ -11,7 +11,7 @@ urlFragment: microsoft-teams-apps-faqplus
 
 #  FAQ Plus App
 
-| [Documentation](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Home) | [Deployment guide](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Deployment-Guide) | [Architecture](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Solution-Overview) |
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
 Chatbots on Microsoft Teams are an easy way to provide answers to frequently asked questions by users. However, most chatbots fail to engage with users in a meaningful way because there is no human in the loop when the chatbot fails to answer a question well. 
@@ -35,28 +35,28 @@ FAQ Plus separates the end-user and the sme bot. With splitting the bot and havi
 
 *	A user interacting with FAQ Plus through chat:
 
-![FAQ Plus in action (user view)](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/FAQPlusEndUser.gif)
+![FAQ Plus in action (user view)](https://github.com/OfficeDev/microsoft-teams-faqplusplus-app/wiki/images/FAQPlusEndUser.gif)
 
 
 *	Expert using FAQ Plus:
 
-![FAQ Plus in action (experts view)](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/FAQPlusExperts.gif)
+![FAQ Plus in action (experts view)](https://github.com/OfficeDev/microsoft-teams-faqplusplus-app/wiki/images/FAQPlusExperts.gif)
 
 
 *	Expert invoking the task module to add QnA pair:
 
-![Invoking_taskmodule1](https://github.com/Shrujal-Tailor/FAQ-Plus/tree/main/Wiki/Invoking_taskmodule1.png)
+![Invoking_taskmodule1](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Images/Invoking_taskmodule1.png)
 
-More screenshots and tips on how to use the app are in the [Wiki](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Home) of this repository.
+More screenshots and tips on how to use the app are in the [Wiki](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Home) of this repository.
 
 ## Getting Started
 
-Begin with the [Solution overview](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Solution-Overview) to read about what the app does and how it works.
+Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Solution-Overview) to read about what the app does and how it works.
 
 When you're ready to try out FAQ Plus, or to use it in your own organization,  you can choose to follow one of the below guides.
-* [Deployment guide powershell](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Deployment-Guide-manual).
+* [Deployment guide powershell](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Deployment-Guide-manual).
     * **Recommended** Use this option to deploy the FAQ Plus using powershell script. The entire set-up is done by the powershell script.
-* [Deployment guide](https://github.com/Shrujal-Tailor/FAQ-Plus/wiki/Deployment-Guide).
+* [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/wiki/Deployment-Guide).
     * Use this option to deploy the FAQ+ manually.
 
 
@@ -64,4 +64,4 @@ When you're ready to try out FAQ Plus, or to use it in your own organization,  y
 
 Thoughts? Questions? Ideas? Share them with us [here](https://aka.ms/fqbappfeedback)!
 
-Please report bugs and other code issues [here](https://github.com/Shrujal-Tailor/FAQ-Plus/issues/new).
+Please report bugs and other code issues [here](https://github.com/OfficeDev/microsoft-teams-apps-faqplus/issues/new).
